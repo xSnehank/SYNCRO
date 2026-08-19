@@ -1,0 +1,10 @@
+{
+  "name": "CHENNAI FLOW",
+  "description": "AI-Powered Transportation & Pollution Optimization Platform for Chennai",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
