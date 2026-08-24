@@ -152,6 +152,7 @@ No license has been specified for this repository. All rights reserved by the au
 ## 👤 Author
 
 **Snehank** — [@xSnehank](https://github.com/xSnehank)
+**Aayush** -- [@aayushmangire] (https://github.com/aayushmangire)
 
 ---
 
